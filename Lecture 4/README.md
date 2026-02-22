@@ -34,3 +34,5 @@ mongodb+srv:/yt:<db_password>@yt-complete-backend.v3jfyw5.mongodb.net/
 
 5. db folder=> is used for databse folder
 6. models folder=> used for making schema
+
+end of today
