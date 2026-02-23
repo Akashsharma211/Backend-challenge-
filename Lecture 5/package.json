@@ -1,0 +1,21 @@
+{
+  "name": "lecture-5",
+  "version": "1.0.0",
+  "description": "1. Cloud Storage Provider: Company that stores your data online and lets you access it anytime through internet.\r ![image=>>>>Cloud Storage Provider=>>>>>>URL](image.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@imagekit/nodejs": "^7.3.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.2.1",
+    "multer": "^2.0.2"
+  }
+}
