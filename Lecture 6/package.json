@@ -1,0 +1,21 @@
+{
+  "name": "lecture-6",
+  "version": "1.0.0",
+  "description": "1. There are 4 things in authentication:\r => Validation: inputs of values validations.\r => Verification: is the input of person is correct or not.\r => Authentication:  to identify the request from the person to server.\r => Authorization : the verification of user that what type of work he can do.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dot": "^1.1.3",
+    "dotenv": "^17.3.1",
+    "env": "^0.0.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.2.2"
+  }
+}
